@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebfffe91bc39",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 43.73089851,
+    "ref_longitude": 15.87414534,
+    "ref_altitude": 60,
+    "contact_email": "denis.perisa@sibenik.hr",
+    "description": "Martinska"
+  }
+}
